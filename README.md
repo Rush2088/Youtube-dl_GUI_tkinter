@@ -7,3 +7,7 @@ Requirements:
 1. Python 3.8+
 2. youtube-dl
 3. ffmpeg
+
+
+Screenshot  
+![](ytdl%20GUI%20screenshot.png)
