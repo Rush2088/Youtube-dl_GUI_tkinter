@@ -10,4 +10,4 @@ Requirements:
 
 
 Screenshot  
-![](ytdl%20GUI%20screenshot.png)
+![](images/Youtube-dl%20GUI%20screenshot.png)
