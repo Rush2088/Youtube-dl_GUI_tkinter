@@ -1,4 +1,4 @@
-## Youtube-dl GUI tkinter for Mp3
+## Youtube-dl GUI tkinter 
 A Python Tkinter based GUI for Youtube-dl
 
 For prototyping purpose, this is script is developed to download mp3s from youtube.
